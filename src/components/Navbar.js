@@ -32,7 +32,7 @@ function Navbar() {
             Advice for Killers
           </Link>
         </li><li className="navbar__item">
-          <Link to="/cfr" className="navbar__link">
+          <Link to="/CommendationForReforia" className="navbar__link">
           Commendation for Reforia
           </Link>
         </li><li className="navbar__item">
