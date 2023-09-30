@@ -6,7 +6,7 @@ import levelup from '../images/levelup.jpg';
 export default function Home() {
   return (
     <div>
-    
+    Home
     </div>
   );
 }
