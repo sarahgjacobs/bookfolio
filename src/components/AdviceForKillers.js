@@ -1,5 +1,6 @@
 import Book from './Card';
 import afk from '../images/afk.PNG'
+import Navbar from '../components/Navbar'
 
 function AdviceForKillers() {
     return (
