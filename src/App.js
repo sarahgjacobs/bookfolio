@@ -18,8 +18,9 @@ function App() {
     <Navbar />
     <Routes>
       
-    <Route path='/home'element={<Home />}/>
+    <Route path='/bookfolio'element={<Home />}/>
       <Route path='/'element={<Home />}/>
+      <Route path='/home'element={<Home />}/>
       <Route path='/thecircuit'element={<TheCircuit />}/>
        <Route path='/inheritance'element={<Inheritance />}/>
       <Route path='/adviceforkillers'element={<AdviceForKillers />}/>   
