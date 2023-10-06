@@ -16,7 +16,7 @@ Bookfolio is the perfect platform for authors to showcase their literary creatio
 ## Installation & Usage
 ![Screenshot of Bookfolio Website](./src/images/readmepic.png "Bookfolio Website")
 
-See [this link](https://sarahgjacobs.github.io/sarahjacobsdev/) to view the page.
+See [this link](https://sarahgjacobs.github.io/bookfolio/) to view the page.
 
 ## Contributions
 Sarah Jacobs
